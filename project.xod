@@ -1,0 +1,6 @@
+{
+  "description": "BMP280 barometric pressure and temperature sensor. Wraps https://github.com/adafruit/Adafruit_BME280_Library.  Datasheet: https://cdn-learn.adafruit.com/assets/assets/000/115/588/original/bst-bme280-ds002.pdf. N.B. UNTESTED!",
+  "license": "BSD-3-Clause",
+  "name": "bme280-barometer",
+  "version": "0.0.1"
+}
